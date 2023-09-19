@@ -1,0 +1,15 @@
+Meeting Date: 4/8/2023
+Meeting Time: 2:42-2:52 PM
+
+Members attended: 
+1) Md Kaviul Hossain (s222340498)
+2) Qisheng Hu
+                  
+
+Discussed Topics: 
+1) Backend Design and Structure
+2) Language to use- Express.js
+3) Framework to use- Node.js
+4) Database to use- Mongodb
+
+Next Meet: Date- 6/8/2023, Time- 3 PM

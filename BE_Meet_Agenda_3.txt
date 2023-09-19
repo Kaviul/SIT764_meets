@@ -1,0 +1,16 @@
+Meeting Date: 8/9/2023
+Meeting Time: 3:22-3:33 PM
+
+Members attended: 
+1) Md Kaviul Hossain (s222340498)
+2) Qisheng Hu
+                  
+
+Discussed Topics: 
+1) 'Confirm Password' feature in the Registration Page frontend layout.
+2) 'Email format' and 'Password strength check' feature in the Registration Page frontend layout.
+3) Login page frontend layout check.
+
+Link to recording: https://deakin365-my.sharepoint.com/:v:/g/personal/s222340498_deakin_edu_au/EfWomEfSXalNof0ssD21oCoBATTuzM1Lyi_Mh0UTzDcmFw 
+
+
